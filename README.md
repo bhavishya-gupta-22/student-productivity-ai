@@ -153,6 +153,16 @@ Built as part of the **Fundamentals of AI and ML** course project.
 
 ---
 
+## 📸 App Preview
+
+![Screenshot](screenshots/Screenshot (35).png)
+![Screenshot](screenshots/Screenshot (36).png)
+![Screenshot](screenshots/Screenshot (37).png)
+![Screenshot](screenshots/Screenshot (38).png)
+![Screenshot](screenshots/Screenshot (39).png)
+
+---
+
 ## 📬 Contact
 
 **Bhavishya Gupta**
