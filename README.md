@@ -19,7 +19,7 @@ The goal is to bridge the gap between **“working hard”** and **“working sm
 
 ## 🚀 Live Demo
 
-🔗 [Click Here to View the App](https://student-productivity-ai.streamlit.app)
+🔗 [Click Here to View the App](https://student-efficiency-ai.streamlit.app/)
 
 ---
 
